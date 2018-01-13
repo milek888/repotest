@@ -2,7 +2,7 @@ package springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//test
+//test 222
 @SpringBootApplication
 public class ApplicationCourse {
 
