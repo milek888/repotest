@@ -1,16 +1,16 @@
 package springboot;
 
-public class Topic {
+public class Film {
 
     private int id;
     private String name;
     private String description;
 
-    public Topic() {
+    public Film() {
 
     }
 
-    public Topic(int id, String name, String description) {
+    public Film(int id, String name, String description) {
         this.id = id;
         this.name = name;
         this.description = description;
