@@ -12,6 +12,7 @@ import java.util.logging.Logger;
 @SpringBootApplication
 @EnableWebMvc
 public class Application implements ApplicationListener<ContextRefreshedEvent> {
+//test
 
     private static final Logger LOG = Logger.getLogger("Application.class");
 

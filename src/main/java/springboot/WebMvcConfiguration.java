@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Profile;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
-
+//rrrrrrrrrrrrrrrrrr
 @Configuration
 public class WebMvcConfiguration extends WebMvcConfigurerAdapter {
 
