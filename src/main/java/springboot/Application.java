@@ -8,7 +8,7 @@ import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
 import java.util.logging.Logger;
-
+//commit by milosz Wp wwwww
 @SpringBootApplication
 @EnableWebMvc
 public class Application implements ApplicationListener<ContextRefreshedEvent> {
