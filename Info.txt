@@ -1,2 +1,5 @@
 Git is version control system which prevents us fr
 The first commit in test bruch 11111111111111111111
+Commit in test_branch2
+In feature brnch
+Now I am in the feature branch 2
