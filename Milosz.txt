@@ -3,4 +3,3 @@
 333333333333
 444444444444
 555555
-Linia po cofnieciu pliku checkout <tagname>
