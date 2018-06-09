@@ -12,3 +12,6 @@ buildNumber.properties
 !/.mvn/wrapper/maven-wrapper.jar
 node_modules
 node
+
+file.pdf
+file.bat
