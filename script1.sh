@@ -1,0 +1,1 @@
+echo "MiloszMazurekkieubasa i sznurek"
