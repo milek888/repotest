@@ -1,0 +1,1 @@
+echo "To jest parametr: {message}"
