@@ -1,1 +1,1 @@
-echo "To jest parametr: {message}"
+echo "To jest parametr: ${message}"
