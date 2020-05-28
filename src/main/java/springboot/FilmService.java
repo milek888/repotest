@@ -36,7 +36,6 @@ public class FilmService {
     }
 
     public void deleteFilm(@PathVariable int id) {
-        //films.removeIf(t->t.getId() == id);
 
         for (int i = 0; i < films.size(); i++) {
             if (films.get(i).getId() == id) {
