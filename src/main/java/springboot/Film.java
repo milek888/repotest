@@ -40,4 +40,12 @@ public class Film {
     public void setDescription(String description) {
         this.description = description;
     }
+
+    public String getDirector() {
+        return director;
+    }
+
+    public void setDirector(String director) {
+        this.director = director;
+    }
 }
