@@ -5,6 +5,7 @@ public class Film {
     private int id;
     private String name;
     private String description;
+    private String director;
 
     public Film() {
 
