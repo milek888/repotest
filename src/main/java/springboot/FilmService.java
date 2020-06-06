@@ -19,6 +19,7 @@ public class FilmService {
     }
 
     public Film getFilm(int id) {
+        System.out.println("Ala ma kota);
         Film topic = films.stream().filter(t -> t.getId() == id).findFirst().get(); //TODO Warning:(22, 78) 'Optional.get()' without 'isPresent()' check
         return topic;
     }
