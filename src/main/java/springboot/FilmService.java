@@ -12,7 +12,8 @@ public class FilmService {
 
     private List<Film> films = new ArrayList<>(Arrays.asList(new Film(1, "Sherlock Holmes", "Crime story"),
             new Film(2, "Indiana Johnes", "Adventure action film"),
-            new Film(3, "Zootopia", "Cartoon")));
+            new Film(3, "Czlowiek na krawedzi", "Thriller"),
+            new Film(4, "Zootopia", "Cartoon")));
 
     public List<Film> getFilms() {
         return films;
