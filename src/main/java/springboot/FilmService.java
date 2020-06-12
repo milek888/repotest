@@ -11,7 +11,8 @@ import java.util.List;
 public class FilmService {
 
     private List<Film> films = new ArrayList<>(Arrays.asList(new Film(1, "Sherlock Holmes", "Crime story"),
-            new Film(2, "Indiana Johnes", "Adventure action film"),
+            new Film(1, "Indiana Johnes", "Adventure action film"),
+            new Film(2, "Myszka Miki", "Cartoon"),
             new Film(3, "Zootopia", "Cartoon")));
 
     public List<Film> getFilms() {
