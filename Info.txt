@@ -1,5 +1,7 @@
 Git is version control system which prevents us fr
-local local local local local local
+remote remote
+ala ma kota i dwa psy
+i jeszcze cos tam
 The first commit in test bruch 11111111111111111111
 Commit in test_branch2
 In feature brnch
